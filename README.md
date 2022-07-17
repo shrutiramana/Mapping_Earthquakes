@@ -12,9 +12,12 @@ Above 2 tasks are accomplished on the 3 different map layers
 Resources- 
     Data Source:
 
-    All earthquakes in the past 7 days : https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
-    Major earthquakes in the past 7 days: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
-    Tectonic plates data: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+    All earthquakes in the past 7 days :
+    https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+    Major earthquakes in the past 7 days:
+    https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
+    Tectonic plates data:
+    https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 JavaScript, HTML and CSS using Visualstudio code and , Leaflet 1.7.1, Mapbox access tokens.
 
